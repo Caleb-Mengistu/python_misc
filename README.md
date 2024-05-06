@@ -1,4 +1,4 @@
-# Miscellaneous python project
+# Miscellaneous python projects
 This repository contains a collection of miscellaneous Python projects covering a range of topics and applications. Each project is designed to showcase different aspects of Python programming and can serve as examples or templates for similar projects.
 
 **Project List:**
